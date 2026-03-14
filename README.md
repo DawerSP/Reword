@@ -1,5 +1,4 @@
-# Reword
-Your ultimate AI writing co-pilot. Paraphrase, summarize, and draft content seamlessly without leaving your browser
+
 
 <div align="center">
   <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Reword+Logo" alt="Reword Logo" width="120" height="120">
